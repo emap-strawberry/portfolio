@@ -1,2 +1,8 @@
-# portfolio
-my portfolio
+## これはなに
+作成途中のポートフォリオです。
+
+## 使う技術は？
+ - Next.js
+ - Vercel  
+
+他は決めていません(え)
